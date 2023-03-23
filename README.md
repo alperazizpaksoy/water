@@ -1,1 +1,1 @@
-
+Bu algoritma  su yönetimi ve inşaat muhendisligi gibi alanlarda kullanilabilcek bir algoritmadir.Özellikle, bir bölgede olası sel felaketleri için altyapı planlaması yaparken ya da su toplama havuzlarının boyutlandırılması gibi durumlarda bu algoritma kullanılabilir. Ayrıca, grafik ve görüntü işleme alanlarında da kullanılarak yükseklik haritalarının analizi için kullanılabilir.
